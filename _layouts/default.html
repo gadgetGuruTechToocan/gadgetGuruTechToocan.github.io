@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body>
+	<nav class="navbar navbar-fixed-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <ul class="nav navbar-nav">
+                        <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
+                        <li class="nav-item"><a class="nav-link" href="/about/">About</a></li>
+                    </ul>
+                    <ul class="nav navbar-nav pull-xs-right">
+                        <li class="nav-item">
+                            <a class="" href="https://twitter.com/{{ site.twitter }}" title="Twitter">
+                                <svg class="icon icon-twitter"><use xlink:href="/public/icons.svg#icon-twitter"></use></svg>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+      <div class="container">
+          <div class="row">
+              <div class="col-md=12">
+                  <h1 class="display-1">Gadget Guru</h1>
+              </div>
+          </div>
+      </div>
+      <main class="container">
+          <div class="row">
+              <div class="col-md-8 col-md-offset-2">
+                  {{ content }}
+              </div>
+          </div>
+      </main>
+    {% include analytics.html %}
+  </body>
+</html>

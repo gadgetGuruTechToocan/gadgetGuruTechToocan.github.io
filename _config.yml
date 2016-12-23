@@ -1,0 +1,37 @@
+# Permalinks
+permalink:        /blog/:categories/:year/:title
+
+# Site-wide settings
+encoding:         utf-8
+timezone:         Europe/London
+
+# Set a default template for blogs so I don't have to
+defaults:
+ -
+  scope:
+    path: 		  "" # empty string for all files
+  values:
+    layout:       "post"
+    card:         true
+
+kramdown:
+  input:          GFM
+  hard_wrap:      false
+
+sass:
+  sass_dir:       _scss
+
+gems:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-paginate
+
+# Setup
+title:            Gadget Guru
+tagline:          Gadgetry Guruing!
+url:              http://www.gadgetgurutechtoocan.co.uk
+paginate:         5
+paginate_path:    "/page/:num"
+baseurl:          /
+
+twitter:          gadgetGuruTechy

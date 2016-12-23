@@ -1,0 +1,36 @@
+<head>
+    <!-- Required meta tags always come first -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    {% if page.layout == 'post' %}
+        <meta description="{{ page.excerpt | strip_html }}">
+    {% else %}
+        <meta description="{{ page.description }}">
+    {% endif %}
+    <title>
+        {{ page.title }} &middot; {{ site.title }}
+    </title>
+
+    {% if page.card %}
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="@{{ site.twitter }}" />
+        <meta name="twitter:title" content=" {{ page.title }}" />
+        <meta name="twitter:description" content="{{ page.excerpt | strip_html }}" />
+        {% comment %}
+        <meta name="twitter:image" content="" />
+        {% endcomment %}
+    {% endif %}
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css" integrity="sha384-y3tfxAZXuh4HwSYylfB+J125MxIs6mR5FOHamPBG064zB+AFeWH94NdvaCBm8qnd" crossorigin="anonymous">
+  <link href='https://fonts.googleapis.com/css?family=Lato:400,400italic|Josefin+Slab:400,600' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="/style.css" />
+
+  <!-- Icons -->
+  <!-- <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}public/apple-touch-icon-precomposed.png"> -->
+  <!-- <link rel="shortcut icon" href="{{ site.baseurl }}public/favicon.ico"> -->
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}atom.xml">
+</head>

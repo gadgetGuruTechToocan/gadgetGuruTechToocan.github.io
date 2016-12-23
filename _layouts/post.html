@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<article>
+    <h1>{{ page.title }}</h1>
+    {% assign post = page %}
+    <!-- date formatting expects post rather than page -->
+  	{% include date.html %}
+
+    {{ page.content }}
+</article>
