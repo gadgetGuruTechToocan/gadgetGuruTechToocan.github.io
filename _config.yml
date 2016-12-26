@@ -27,11 +27,14 @@ gems:
   - jekyll-paginate
 
 # Setup
-title:            Gadget Guru
+title:            Gadget Guru Techy
 tagline:          Gadgetry Guruing!
-url:              http://www.gadgetgurutechtoocan.co.uk
+
+url:              http://www.gadgetgurutechy.co.uk
 paginate:         5
 paginate_path:    "/page/:num"
 baseurl:          /
 
 twitter:          gadgetGuruTechy
+
+pageheading:      Gadget Guru
