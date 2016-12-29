@@ -5,7 +5,7 @@ description: Tech Gadgetry of the Guru kind
 ---
 
 'Gadget Guru' is an alias (I know shock horror!), first really adopted from my persona on BBC Radio Manchester & Lancashire slot on the Indus programme. As the resident 'guru' I deliver reviews and news on the gadgets/technology and gaming for a varied audience on broadcast radio.
-Having worked in R&D and software development, as a technical journalist, I try to expose to bring to light the technology and innovation of newly released / to be released gadgets, tech, games and consoles.
+Having worked in R&D and software development, as a technical journalist, I try to bring to light the technology and innovation of newly released / to be released gadgets, tech, games and consoles.
 
 I have always been fascinated by technology and love seeing and playing with the new and innovative gadgets, consoles and general cool tech.
 My love of games and technology probably started when I was very young and we got a Commodore 64, this got me hooked on all things techy. Natural love of game consoles and games spurred on with the development of what went from magic in a 5 year olds eyes to something an adult me would be inspired to work with technology and software development.
