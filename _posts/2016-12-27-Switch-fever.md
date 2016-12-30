@@ -9,7 +9,9 @@ The Nintendo Switch has at its core a new concept, one which Nintendo was very k
 In essence the Nintendo Switch represents a merging of home console and mobile console (the 3DS) lines into one, although Nintendo still refer to the Switch as a Home console <reference required>. The motivation is definitely to have a hybrid device.
 
 
-<img src="/public/images/20161227/HACS_001_heroGA01_R_ad.png" width="50%" height="50%"/> Nintendo &copy;
+<img src="/public/images/20161227/HACS_001_heroGA01_R_ad.png" width="50%" height="50%"/>
+
+Nintendo &copy;
 
 Nintendo has remained rather tight lipped about its new flagship console, other than a [trailer](https://youtu.be/f5uik5fgIaI), no real official confirmation or denial of any rumours have been made by Nintendo, this has raised the anticipation of the console even further with prominent 'leakers' proving their leaks to be true based on the [trailer](https://youtu.be/f5uik5fgIaI) for the system released in October.
 Prominent leakers in this instance are [Laura Kate Dale](https://twitter.com/LaurakBuzz) and [Emily Rogers](https://twitter.com/arcadegirl64) amongst others including news outlets [Eurogamer](http://www.eurogamer.net/) and [Digital Foundry](https://www.digitalfoundry.net/)
