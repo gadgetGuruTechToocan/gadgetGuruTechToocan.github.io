@@ -9,7 +9,7 @@ The Nintendo Switch has at its core a new concept, one which Nintendo was very k
 In essence the Nintendo Switch represents a merging of home console and mobile console (the 3DS) lines into one, although Nintendo still refer to the Switch as a Home console <reference required>. The motivation is definitely to have a hybrid device.
 
 
-<img src="/public/images/20161227/HACS_001_heroGA01_R_ad.png" width="50%" height="50%"/>
+<img class="img-responsive center-block" src="/public/images/20161227/HACS_001_heroGA01_R_ad.png" width="50%" height="50%"/>
 
 Nintendo &copy;
 
@@ -18,7 +18,7 @@ Prominent leakers in this instance are [Laura Kate Dale](https://twitter.com/Lau
 
 As part of the trailer reveal, Nintendo also released a list of some of the 3rd parties that are working with Nintendo to deliver content for the Nintendo Switch
 
-<img src="/public/images/20161227/Infographic_header_source_v2-en.png" width="75%" height="75%"/>
+<img class="img-responsive center-block" src="/public/images/20161227/Infographic_header_source_v2-en.png" width="75%" height="75%"/>
 
 Nintendo &copy;
 
