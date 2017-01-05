@@ -7,13 +7,19 @@ body {
     background: #CCC;
     background-size: cover;
     background-attachment: fixed;
-    margin-top: 7rem;
+    margin-top: 8.5rem;
     // font-family: Lato, sans-serif;
 }
 
 nav {
-    background: #fff;
-    border-bottom: 1px solid $border;
+  font-size: 1.5rem;
+  background: #fff;
+  border-bottom: 1px solid $border;
+}
+
+.nav-item{
+  padding-top: 0.6rem;
+  padding-left: 0.3rem;
 }
 
 p {
@@ -69,13 +75,19 @@ article{
 
 .icon {
 	display: inline-block;
-	width: 1.7rem;
-	height: 1.7rem;
+	width: 2.5rem;
+	height: 2.5rem;
 	fill: #999;//currentColor;
     padding-top: 0.3rem;
 }
 .icon-twitter:hover{
     fill: #55acee;
+}
+.icon-youtube:hover {
+  fill: #b31217;
+}
+.icon-facebook:hover {
+  fill: #3b5998;
 }
 .icon-github3:hover{
     fill: #000;

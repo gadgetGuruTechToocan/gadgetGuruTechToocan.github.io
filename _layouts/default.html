@@ -9,34 +9,26 @@
             <div class="row">
                 <div class="col-md-8 col-md-offset-2">
                     <ul class="nav navbar-nav">
+                      <a class="navbar-brand" href="/"><img alt="Brand" src="/public/images/gadgetgurulogonavbar.png"></a>
                         <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
                         <li class="nav-item"><a class="nav-link" href="/about/">About</a></li>
                     </ul>
                     <ul class="nav navbar-nav pull-xs-right">
-                        <li class="nav-item">
-                            <a class="" href="https://twitter.com/{{ site.twitter }}" title="Twitter">
-                                <svg class="icon icon-twitter"><use xlink:href="/public/icons.svg#icon-twitter"></use></svg>
-                            </a>
-                        </li>
+                            <li class="nav-item">
+                              <a class="navbar-link" target="_blank" href="https://twitter.com/{{ site.twitter }}" title="Twitter"><svg class="icon icon-twitter"><use xlink:href="/public/icons.svg#icon-twitter"></use></svg></a>
+                            </li>
+                            <li class="nav-item">
+                              <a class="navbar-link" target="_blank" href="https://www.youtube.com/channel/{{ site.youtube }}" title="Youtube channel"><svg class="icon icon-youtube"><use xlink:href="/public/icons.svg#icon-youtube"></use></svg></a>
+                            </li>
+                            <li class="nav-item">
+                              <a class="navbar-link" target="_blank" href="https://www.facebook.com/{{ site.facebook }}" title="Facebook"><svg class="icon icon-facebook"><use xlink:href="/public/icons.svg#icon-facebook"></use></svg></a>
+                            </li>
                     </ul>
                 </div>
             </div>
         </div>
     </nav>
-      <div class="container">
-          <div class="row">
-              <div class="col-md=12">
-                  <img id="logo" class="img-responsive center-block" src="/public/images/gadgetgurulogosmall.png" width="20%" height="20%"/><h1 class="display-1">{{ site.pageheading }}</h1>
-              </div>
-          </div>
-      </div>
-      <main class="container">
-          <div class="row">
-              <div class="col-md-8 col-md-offset-2">
-                  {{ content }}
-              </div>
-          </div>
-      </main>
+    {{ content }}
     {% include analytics.html %}
   </body>
 </html>

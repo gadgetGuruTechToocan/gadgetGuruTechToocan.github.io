@@ -1,8 +1,8 @@
 ---
-title: Zelda Breath of the Wild, now being rumoured to be a launch title for Switch
+title: Zelda Breath of the Wild, rumoured to be a launch title for Switch
 ---
 
-# Zelda as a Nintendo Switch launch title ??
+## Zelda as a Nintendo Switch launch title ??
 
 <img class="img-responsive center-block" src="/public/images/20170104/WiiU_TheLegendofZeldaBreathoftheWild_E32016_logo_01-11.png" width="50%" height="50%"/>
 

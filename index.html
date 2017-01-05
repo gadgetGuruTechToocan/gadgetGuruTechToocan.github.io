@@ -1,10 +1,20 @@
 ---
 layout: default
-title: 
+title:
 redirect_from: "/blog/"
 card: false
 description: The ramblings of an Appalachian Trail thru hiker
 ---
+<div class="container">
+    <div class="row">
+        <div class="col-md=12">
+            <img id="logo" class="img-responsive center-block" src="/public/images/gadgetgurulogosmall.png" width="20%" height="20%"/><h1 class="display-1">{{ site.pageheading }}</h1>
+        </div>
+    </div>
+</div>
+<main class="container">
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
 
 {% for post in paginator.posts %}
     <article>
@@ -35,3 +45,6 @@ description: The ramblings of an Appalachian Trail thru hiker
         {% endif %}
     </div>
 </div>
+</div>
+</div>
+</main>
