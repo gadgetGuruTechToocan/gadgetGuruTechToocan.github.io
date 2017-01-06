@@ -1,0 +1,44 @@
+---
+title: Clips
+layout: page
+description: Gadget Guru clips from the Radio and more
+---
+<h2>Gadget Guru radio slot on Indus, BBC Radio Manchester and Lancashire</h2>
+<p>Clips of the broadcast slot will appear here to play, there are more broadcasts, access to older content is restricted/lost :( </p>
+<script type="text/javascript">
+
+function setSourceAndPlay(pathToAudioSrc){
+  var audioElement = document.getElementById("audioplayer");
+  var mp3Source = document.getElementById("mp3Source");
+  if(audioElement && mp3Source){
+    if (!audioElement.hasAttribute("controls")) {
+      audioElement.setAttribute("controls","controls")
+    }
+    mp3Source.src = pathToAudioSrc;
+    audioElement.load();
+    audioElement.play();
+  }
+}
+</script>
+
+<audio id="audioplayer">
+  <source id="mp3Source" type="audio/mp3"></source>
+  Sorry this page uses HTML audio tag, your browser does not seem to support it
+</audio>
+
+<div class="table-responsive">
+  <table class"table-bordered">
+    <thead>
+    <tr>
+      <th>Date &amp; Time </th>
+      <th>Topic(s)</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>11th December 2016</td><td>Christmas gadgets for about £50</td><td><a onclick='setSourceAndPlay("/public/clips/BBC_Radio_Manchester-2016-12-11_19-22-30.mp3")'>Click here</a></td>
+    </tr>
+  </tbody>
+  </table>
+</div>
