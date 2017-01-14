@@ -17,7 +17,7 @@ Key facts from presentation about the Switch games (apparently 80 in development
   <img class="img-responsive center-block" src="/public/images/20170113/ZeldaBreathOfTheWild_BundleBox_EU8.png" width="100%" height="100%"/>
 
 * '1-2-Switch' - new IP illustrating the joycons and style of gaming where looking at the screen is not necessary. Launch title - 3rd March 2017
-<img class="img-responsive center-block" src="/public/images/20170113/HACP_AACC_WWillu01_05_R_ad-0_LR.jpg" width="50%" height="50%"/>
+ <img class="img-responsive center-block" src="/public/images/20170113/HACP_AACC_WWillu01_05_R_ad-0_LR.jpg" width="50%" height="50%"/>
 
  <img class="img-responsive center-block" src="/public/images/20170113/12Switch_Presentation2017_scrn05_Milk.bmp" width="50%" height="50%"/>
  <img class="img-responsive center-block" src="/public/images/20170113/12Switch_Presentation2017_scrn04_BallCount.bmp" width="50%" height="50%"/>
