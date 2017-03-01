@@ -32,4 +32,6 @@ Highlights:
 * 4 colours (red, black, yellow and silver)
 * Yes it has an updated version of snake to play! Along with those 'special' Nokia-esk ring tones
 
+Offical webpage for Nokia 3310 re-release is available [here]( https://www.nokia.com/en_int/phones/nokia-3310)
+
 Watch this space for further review goodness on the Nokia 3310.
