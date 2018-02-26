@@ -14,7 +14,7 @@ The idea is to provide the consumer a facility that will allow them to directly 
 
 To add (some might unnecessary) strings to the device's bow it has a built in 3G sim card and cellular phone, to allow it to be controlled remotely. This is done via a facebook bot, the user goes to a particular URL (which is a chat console to Bonaverde concierge) and then can instruct the machine to roast, grind and brew in isolation or as a complete process to make a coffee.
 
-<img class="img-responsive center-block" src="/public/images/20180114/bonaverde_berlin.jpg" width="50%" height="50%"/>
+<img class="img-responsive center-block" src="/public/images/20180114/bonaverde_berlin_pic.jpg" width="50%" height="50%"/>
 
 As alluded earlier the notion of this machine is to allow a user a direct path to coffee farmer, whether this translates to fairer distribution of the wealth in this model really relies on the means by which you acquire/discover the suppliers i.e. the farmers.
 In this regard Bonaverde as a company could be accused of attempting to create there own market to monopolise, however its a little bit like the chicken and the egg which has to come first in order for a market to exist? Many will be familiar with bespoke machines like the Tassimo and Nespresso when bespoke pods are used with machines designed specifically to make a beverage using a licensed pod system. With varying degrees of success these proprietary pod systems have furnished an ability to have barista quality coffee in the home. Albeit still a litte expensive compared to other means of making the perfect cup at home.
